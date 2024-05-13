@@ -1,0 +1,33 @@
+package net.ezra.navigation
+
+const val ROUTE_LOGIN = "login"
+const val ROUTE_SIGNUP = "signup"
+const val ROUTE_HOME = "home"
+const val ROUTE_SEARCH = "search"
+const val ROUTE_CART = "cart"
+
+const val ROUTE_HISTORY = "history"
+const val ROUTE_PHONE_LOGIN = "mit"
+const val ROUTE_PHONE_SIGNUP ="contact"
+const val ROUTE_SHOP = "shop"
+const val ROUTE_SETTINGS = "products"
+const val ROUTE_EVENING = "evening"
+const val ROUTE_ADD_STUDENTS = "add_students"
+const val ROUTE_SPLASH = "splash"
+const val ROUTE_BEACHES = "beaches"
+const val ROUTE_NOTIFICATIONS = "notification"
+const val ROUTE_PROFILE = "profiles"
+const val ROUTE_MOUNTAINS = "mountains"
+const val ROUTE_LAKES = "lakes"
+const val ROUTE_WILDLIFE = "wildlife"
+const val ROUTE_RECOMMENDED_PACKAGES = "recommended_packages"
+const val ROUTE_RECOMMENDED_PLACES = "recommended_places"
+const val ROUTE_ALONG_RIFT_VALLEY = "along_rift_valley"
+const val ROUTE_POPULAR_HOTELS = "popular hotels"
+const val ROUTE_VASCODAGAMA = "vascodagama"
+const val ROUTE_TSAVO = "tsavo"
+const val ROUTE_DIANI = "diani"
+const val ROUTE_RADDISONBLU = "raddison_blu"
+const val ROUTE_MT_KENYA = "mount_kenya"
+
+
